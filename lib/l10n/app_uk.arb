@@ -1,0 +1,17 @@
+{
+   "app_title": "Telestat тест завдання",
+   "list_task" : "Завдання List",
+   "api_task" : "Завдання API",
+   "time": "Час: ",
+   "description": "Опис: ",
+   "title": "Назва: ",
+   "add_new_item": "Додати елемент",
+   "confirm": "Підтвердити",
+   "enter_title": "Будь ласка, введіть назву",
+   "enter_description": "Будь ласка, введіть опис",
+   "enter_time": "Будь ласка, введіть час",
+   "edit_item": "Редагувати елемент",
+   "fetch_data": "Завантажити новини",
+   "error_loading": "Помилка завантаження даних",
+   "no_image": "немає даних"
+}

@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "app_title": "Telestat demo task",
+  "list_task" : "List task",
+  "api_task" : "API task",
+  "time": "Time: ",
+  "description": "Description: ",
+  "title": "Title: ",
+  "add_new_item": "Add new item",
+  "confirm": "confirm",
+  "enter_title": "Please enter title",
+  "enter_description": "Please enter description",
+  "enter_time": "Please enter correct time",
+  "edit_item": "Edit item",
+  "fetch_data": "get articles",
+  "error_loading": "Error data loading",
+  "no_image": "no image"
+}
